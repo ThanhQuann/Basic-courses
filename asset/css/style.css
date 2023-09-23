@@ -189,6 +189,7 @@ main{
     display: flex;
 }
 .img-head{
+    
     position: relative;
     padding-bottom: 65px;
 }
